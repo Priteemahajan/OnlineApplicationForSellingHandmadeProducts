@@ -1,0 +1,15 @@
+.contact{
+    left:400%;
+   
+    background-color:lightgrey;
+    position: absolute;
+    background-position-x: 'right';
+    background-size: 'left';
+    top: 135%;
+    left: 51%;
+    height: 220px;
+    width: 1710px;
+    transform: translate(-50%, -50%);
+    text-align: centre;
+    color:rgb(30, 4, 59);
+}

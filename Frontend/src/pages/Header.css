@@ -1,0 +1,43 @@
+.header {
+    top:10%;
+    padding: 190px;
+    width: auto;
+    height: 800px;
+   /* margin-left: 7%;*/
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  /* background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../header_image.jpg") no-repeat;*/
+   background:linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../header_image.jpg")10% 1% no-repeat;
+   font-family: Georgia;
+   background-size: cover;
+  
+}
+ 
+
+
+.header img {
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+   
+}
+
+.heading{
+    margin-top: 30%;
+    font-size:100px;
+    color:darkblue;
+}
+
+.header a.active {
+    color: palegoldenrod
+  }
+
+/* Float the link section to the right */
+.header-right {
+    position: absolute;
+    top: 2
+    00%;
+    right: 1%;
+    transform: translate(-50%, -50%);
+}
